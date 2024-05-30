@@ -1,0 +1,17 @@
+form{
+margin:10px;  
+padding:20px;  
+position: relative;
+}
+.inblock{
+    display: inline-block;
+}
+.form-control{
+    width:400px;
+}
+
+.auth-card{
+    width:500px;
+    position: relative;
+    left:450px;
+}
